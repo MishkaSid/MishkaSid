@@ -1,47 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# 👋 Hi, I’m Michael Sidoruk<br><br>🎓 I'm a Practical Software Engineering student at the Technion’s National School of Practical Engineering, with a growing passion for clean code, practical problem-solving, and building real-world web applications.<br><br>👨‍🏫 Currently, I’m working as a Teaching Assistant, where I help students deepen their understanding of software concepts through mentorship and hands-on guidance.<br><br>---<br><br>## 💻 Tech Stack & Skills<br><br>- **Languages:** Java, C#, JavaScript, Python, SQL<br>- **Web Technologies:** HTML, CSS, React, Node.js<br>- **Databases:** MongoDB, Azure SQL<br>- **Tools & Practices:** Git, .NET Unit Testing, RESTful APIs<br>- **Core Concepts:** OOP, Networking Fundamentals<br><br>---<br><br>## 👨‍🏫 Teaching Assistant  <br>**Technion – National School of Practical Engineering**  <br>*Dec 2024 – Present*  <br>- Guide and mentor students in core software engineering subjects.<br>- Conduct technical tutorials and assist in practical project development.<br>- Collaborate with faculty to improve course delivery and student performance.<br><br>---<br><br>## 🌱 Currently Exploring<br><br>- Advanced frontend techniques in React<br>- Backend integration with Node.js and MongoDB<br>- Scalable architecture for web applications<br><br>---<br><br>- 🌍 Languages: Hebrew (native), English (fluent), Russian (intermediate)<br><br>---<br><br>⭐ *“Code is a tool, but teaching is the craft — I aim to do both exceptionally well.”*
 
-# 👋 Hi, I’m Michael Sidoruk
 
-🎓 I'm a Practical Software Engineering student at the Technion’s National School of Practical Engineering, with a growing passion for clean code, practical problem-solving, and building real-world web applications.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-sidoruk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sidorukmichael@gmail.com) 
 
-👨‍🏫 Currently, I’m working as a Teaching Assistant, where I help students deepen their understanding of software concepts through mentorship and hands-on guidance.
-
----
-
-## 💻 Tech Stack & Skills
-
-- **Languages:** Java, C#, JavaScript, Python, SQL
-- **Web Technologies:** HTML, CSS, React, Node.js
-- **Databases:** MongoDB, Azure SQL
-- **Tools & Practices:** Git, .NET Unit Testing, RESTful APIs
-- **Core Concepts:** OOP, Networking Fundamentals
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MishkaSid&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MishkaSid&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkaSid&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MishkaSid&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 👨‍🏫 Teaching Assistant  
-**Technion – National School of Practical Engineering**  
-*Dec 2024 – Present*  
-- Guide and mentor students in core software engineering subjects.
-- Conduct technical tutorials and assist in practical project development.
-- Collaborate with faculty to improve course delivery and student performance.
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced frontend techniques in React
-- Backend integration with Node.js and MongoDB
-- Scalable architecture for web applications
-
----
-
-## 📫 Let’s Connect
-
-- 📧 [sidorukmichael@gmail.com](mailto:sidorukmichael@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/) https://www.linkedin.com/in/michael-sidoruk-0b901330b
-- 🌍 Languages: Hebrew (native), English (fluent), Russian (intermediate)
-
----
-
-⭐ *“Code is a tool, but teaching is the craft — I aim to do both exceptionally well.”*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
