@@ -85,11 +85,20 @@
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MishkaSid&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MishkaSid&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MishkaSid&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MishkaSid&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishkaSid&layout=compact&theme=react&hide_border=false" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://streak-stats.demolab.com?user=MishkaSid&theme=react&hide_border=false" alt="GitHub Streak" />
 
 ---
 
