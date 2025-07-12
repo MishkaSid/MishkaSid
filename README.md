@@ -58,7 +58,7 @@ I’m a Practical Software Engineer, graduated from the Technion’s National Sc
 <h5>
 🌍 Languages: Hebrew (native), English (fluent), Russian (intermediate)
 </h5>
-
+<!--
 ---
 
 ## 🌐 Connect With Me
@@ -74,7 +74,7 @@ I’m a Practical Software Engineer, graduated from the Technion’s National Sc
 
 ---
 
-<!--
+
 ## 📊 GitHub Stats
 
 <table>
