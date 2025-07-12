@@ -2,12 +2,12 @@
 
 <h4>
 👋 Hi, I’m Michael Sidoruk<br><br>
-🎓 I'm a Practical Software Engineering student at the Technion’s National School of Practical Engineering, with a growing passion for clean code, practical problem-solving, and building real-world web applications.<br><br>
-👨‍🏫 Currently, I’m working as a Teaching Assistant, where I help students deepen their understanding of software concepts through mentorship and hands-on guidance.
+I’m a Practical Software Engineer, graduated from the Technion’s National School of Practical Engineering. I have a strong passion for clean code, practical problem-solving, and building real-world web applications.<br><br>
+👨‍🏫 I’ve also worked as a Teaching Assistant, where I helped students deepen their understanding of software concepts through mentorship and hands-on guidance.
 </h4>
 
 ---
-
+<!--
 ## 💻 Tech Stack & Skills
 
 <h5>
@@ -35,46 +35,7 @@
 </h5>
 
 ---
-
-## 🌱 Currently Exploring
-
-<h5>
-
-- Advanced frontend techniques in React  
-- Backend integration with Node.js and MongoDB  
-- Scalable architecture for web applications  
-
-</h5>
-
----
-
-<h5>
-🌍 Languages: Hebrew (native), English (fluent), Russian (intermediate)
-</h5>
-
----
-
-⭐ <i>“Code is a tool, but teaching is the craft — I aim to do both exceptionally well.”</i>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/michael-sidoruk-0b901330b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sidorukmichael@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/MishkaSid/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
-
-
----
-
+-->
 ## 💻 Tech Stack:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -94,7 +55,26 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+<h5>
+🌍 Languages: Hebrew (native), English (fluent), Russian (intermediate)
+</h5>
 
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/michael-sidoruk-0b901330b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sidorukmichael@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<!--
 ## 📊 GitHub Stats
 
 <table>
@@ -111,5 +91,5 @@
 <img src="https://streak-stats.demolab.com?user=MishkaSid&theme=react&hide_border=false" alt="GitHub Streak" />
 
 ---
-
+-->
 [![](https://visitcount.itsvg.in/api?id=MishkaSid&icon=0&color=1)](https://visitcount.itsvg.in)
